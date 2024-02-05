@@ -1,0 +1,13 @@
+{
+  "title": "podcasts",
+  "type": "object",
+  "properties": {
+    "audioLink": {
+      "required": true,
+      "description": "Add audio link",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Audio Link"
+    }
+  }
+}
